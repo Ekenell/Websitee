@@ -7,6 +7,6 @@ h1{
   position: absolute;
   top: 8px;
   left: 16px;
-  border: 2px solid black
-  font-family: Courier
+  border: 2px solid black;
+  font-family: Courier;
 }
